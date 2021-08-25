@@ -18,7 +18,7 @@ observações após o nome, etc.
 
 Exemplo de lista:
 
-Volei quarta dia 25 das 20h as 22h R$ 100,00.
+Volei Quarta-Feira, dia 25 das 20h as 22h, R$ 100,00.
 1. Fulano
 2. Beltrano
 3. Ciclano
