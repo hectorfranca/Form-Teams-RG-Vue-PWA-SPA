@@ -12,7 +12,7 @@ Ex:
 1- Fulano
 2. Ciclano
 
-2- Serão descartadas linhas e palavras que não corresponde a um jogador, ou seja, textos, observações após o nome, etc.
+2- Serão descartadas linhas e palavras que não correspondem a um jogador, ou seja, textos, observações após o nome, etc.
 3- O limite máximo de jogadores é 21, os jogadores remanescentes serão excluídos da lista.
 
 Exemplo de lista:
@@ -48,6 +48,6 @@ Suplentes
 ## Instalação
 ```
 1- Abra o site.
-2- Clicke nos 3 pontinhos do navegador.
+2- Clique nos 3 pontinhos do navegador.
 3- Escolha a opção instalar aplicativo.
 ```
