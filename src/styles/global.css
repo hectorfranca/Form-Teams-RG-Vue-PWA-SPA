@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+:root {
+    --color-white: #F2F0EB;
+    --color-black: #141A26;
+    --color-darkblue: #023E73;
+    --color-darkred: #731425;
+    --color-yellow: #D9A404;
+    --color-brown: #59341E;
+}
+* {
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+    list-style: none;
+    border: 0;
+}
+body {
+    font-family: 'Mate SC', serif;
+    background-image: url("../img/volley_background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.--hidden {
+    display: none;
+}
+.--loading-background {
+    filter: blur(2px);
+}
+.--overflow-hidden {
+    overflow: hidden;
+}

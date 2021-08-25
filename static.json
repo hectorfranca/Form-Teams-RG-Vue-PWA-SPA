@@ -1,0 +1,9 @@
+{
+  "root": "dist",
+  "canonical_host": "${HOST}",
+  "https_only": true,
+  "clean_urls": true,
+  "routes": {
+    "/**": "index.html"
+  }
+}
