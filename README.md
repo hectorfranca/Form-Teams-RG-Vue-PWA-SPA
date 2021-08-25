@@ -9,8 +9,8 @@ Insira uma lista válida para formar os times.
 ```
 1- Cada jogador precisa preceder uma posição na lista com um número e separador "." ou "-".
 Ex:
-1. Fulano
-2- Ciclano
+1- Fulano
+2. Ciclano
 
 2- Serão descartadas linhas e palavras que não corresponde a um jogador, ou seja, textos, observações após o nome, etc.
 3- O limite máximo de jogadores é 21, os jogadores remanescentes serão excluídos da lista.
