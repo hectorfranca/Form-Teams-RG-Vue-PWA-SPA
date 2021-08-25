@@ -7,7 +7,7 @@ Insira uma lista válida para formar os times.
 
 ### Regras da lista
 ```
-1- Cada jogador precisa preceder uma posição na lista com um número e separador "." ou "-".
+1- Cada jogador precisa preceder uma posição na lista com um número e um separador "." ou "-".
 Ex:
 1- Fulano
 2. Ciclano
