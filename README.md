@@ -12,6 +12,8 @@ Ex:
 1- Fulano
 2. Ciclano
 
+Observação: não deve conter espaços em branco antes do número.
+
 2- Serão descartadas linhas e palavras que não correspondem a um jogador, ou seja, textos, 
 observações após o nome, etc.
 3- O limite máximo de jogadores é 21, os jogadores remanescentes serão excluídos da lista.
