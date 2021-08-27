@@ -71,7 +71,7 @@ export default {
             
             // Replace unnecessary data
             lines = lines.map(element => {
-                return element.replace(/^\D.+|[0-9]+.\s|[0-9]+.|-.+|\(.+/gm, "");
+                return element.replace(/^\D.+|[0-9]+.\s|[0-9]\s.\s|[0-9]\s\.|[0-9]\s-|[0-9]+.|-.+|\(.+/gm, "");
             });
 
             // Remove empty elements
