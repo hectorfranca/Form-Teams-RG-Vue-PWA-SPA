@@ -25,7 +25,7 @@ será escalado 1 jogador como reserva.
 Exemplo de lista:
 
 Volei Quarta-Feira, dia 25 das 20h as 22h, R$ 100,00.
-1. Fulano
+1. Brenda
 2. Douglas - vou tentar ir
 3. Gustavo (se conseguir chegar no horário)
 4. João
