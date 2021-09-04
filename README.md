@@ -19,7 +19,8 @@ Observação: não deve conter espaços em branco antes do número.
 2- Serão descartadas linhas e palavras que não correspondem a um jogador, ou seja, textos, 
 observações após o nome, etc.
 3- O limite máximo de jogadores é 21, os jogadores remanescentes serão excluídos da lista.
-4- Um time de vôlei padrão é composto por 6 jogadores. Se não for possível a distribuição correta, será escalado 1 jogador como reserva.
+4- Um time de vôlei padrão é composto por 6 jogadores. Se não for possível a distribuição correta, 
+será escalado 1 jogador como reserva.
 
 Exemplo de lista:
 
